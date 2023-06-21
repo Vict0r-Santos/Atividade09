@@ -1,0 +1,7 @@
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\Aula09Estacionamento.exe.config
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\Aula09Estacionamento.exe
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\Aula09Estacionamento.pdb
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\Aula09Estacionamento.csproj.AssemblyReference.cache
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\Aula09Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\Aula09Estacionamento.exe
+C:\Users\victor.gssilva9\source\repos\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\Aula09Estacionamento.pdb
